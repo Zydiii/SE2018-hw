@@ -18,7 +18,7 @@
 
    React is leading, well-drafted, widely applicable JavaScript technology. It combines the speed of JavaScript and uses a new way of rendering webpages, making them highly dynamic and responsive to user input.
    React has already hit the point of being mainstream and is used by a number of large companies. Let's take a look at the React's Growth below. It illustrates that React gained traction in 2014 and grows at a rapid speed.
-   
+
 <div  align="center">
 <img src="pic/e.png" />
 </div>
@@ -55,9 +55,9 @@
 
 ## 2. High Pace of Development
 
->   *“In case you didn’t notice we’re driving a car here with two flat tires, the hood just flew up in front of the windshield, and we have no clue what’s going on anymore!”*
+>  “In case you didn’t notice we’re driving a car here with two flat tires, the hood just flew up in front of the windshield, and we have no clue what’s going on anymore!” 
 >
->                                       —— *Michael Jackson and Ryan Florence*
+> <p align="right">——Michael Jackson and Ryan Florence</p> 
 
   The environment constantly changes, and developers must regularly relearn the new ways of doing things. Everything is evolving, and some developers are not comfortable with keeping up with such a pace.
 
