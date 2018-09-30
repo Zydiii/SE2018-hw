@@ -10,4 +10,4 @@ The repo keeps my road of learning React.
 
 * The folder *slides* keeps the ppt or other assignments I have during the course.
 
-What's more, the repo [React-Examples](https://github.com/Zydiii/React-Examples) keeps the React practice I made, basically following the instructions of course [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react/home/welcome) but haven't finished yet > < .
+What's more, the repo [React-Examples](https://github.com/Zydiii/React-Examples) keeps the React practice I made, basically following the instructions of course [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react/home/welcome) but haven't finished yet > < . You may use `yarn start` to see its rough output but hopefully not because I just finished a little...
