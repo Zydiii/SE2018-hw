@@ -1,4 +1,4 @@
-![CI](D:\js\React&Vue\pic\CI.png)
+![CI](pic\CI.png)
    In the era of information, web industry is becoming dramatically ubiquitous. To be successful, effective in this contemporary age it is essential to keep pace with skyrocketing technologies. We can't deny the fact that what tool is chosen is of significance, so as it really depends on set goals.
    In computing, ***React*** (also known as ***React.js*** or ***ReactJS***) is a JavaScript library for building user interfaces.  It is maintained by facebook and a community of individual developers and companies.Let's take a glance at its history.
 # History
@@ -10,7 +10,7 @@
 # So, what is React?
    React is leading, well-drafted, widely applicable JavaScript technology. It combines the speed of JavaScript and uses a new way of rendering webpages, making them highly dynamic and responsive to user input.
    React has already hit the point of being mainstream and is used by a number of large companies. Let's take a look at the React's Growth below. It illustrates that React gained traction in 2014 and grows at a rapid speed.
-![e](D:\js\React&Vue\pic\e.png)     
+![e](pic\e.png)     
    So, let’s take a closer look at React’s pros and cons.
 # Pros of React
 ## 1. Easy to Learn and Understand
@@ -44,11 +44,9 @@
 ## 4. Folder Structure
   As the project becomes bigger you might lose the “flow of data and components”. Folder structure is paramount in every project but with React you might need to open 4–5 files to make changes if the proper architecture is not followed from the start.
 # React or not to React?
-![33](D:\js\React&Vue\pic\33.png)
-
-   To find an answer to this question is hard and difficult for there are admirers and haters. Thus, React is still the safest tool to exploit long-term supported web application. It renders user interface components in a meaningful way. It is an appropriate choice for gradually modernising relevant code base. React represents absolutely diverse approach for developing full-featured web apps, helps in organising data logic, view changing in an easy-to-maintain, modifiable and scalable structure without compromising UX. 
-
-   Considering React js pros and cons, the point, nevertheless, was to showcase the usefulness of the React library in creating modern, scalable applications. With users more quick to choose alternatives in the case of poor application performance, product developers have to make an important judgment call when deciding the ‘right’ framework for creating the best looking and performing application to drive user leads and then monetary sales, eventually. 
+![33](pic\33.png)
+  To find an answer to this question is hard and difficult for there are admirers and haters. Thus, React is still the safest tool to exploit long-term supported web application. It renders user interface components in a meaningful way. It is an appropriate choice for gradually modernising relevant code base. React represents absolutely diverse approach for developing full-featured web apps, helps in organising data logic, view changing in an easy-to-maintain, modifiable and scalable structure without compromising UX. 
+  Considering React js pros and cons, the point, nevertheless, was to showcase the usefulness of the React library in creating modern, scalable applications. With users more quick to choose alternatives in the case of poor application performance, product developers have to make an important judgment call when deciding the ‘right’ framework for creating the best looking and performing application to drive user leads and then monetary sales, eventually. 
 
 # References:
 1. [Advantages of Developing Modern Web apps with React.js](https://medium.com/@hamzamahmood/advantages-of-developing-modern-web-apps-with-react-js-8504c571db71)
