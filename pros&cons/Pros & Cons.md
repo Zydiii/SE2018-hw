@@ -2,6 +2,7 @@
 <div  align="center">
 <img src="../pic/CI.png"/>
 </div>
+
   In the era of information, web industry is becoming dramatically ubiquitous. To be successful, effective in this contemporary age it is essential to keep pace with skyrocketing technologies. We can't deny the fact that what tool is chosen is of significance.
    In computing, ***React*** (also known as ***React.js*** or ***ReactJS***) is a JavaScript library for building user interfaces.  It is maintained by facebook and a community of individual developers and companies. Let's take a glance at its history.
 
