@@ -6,6 +6,6 @@ This repo keeps my homework of 2018 SE.
 React & Vue
 
 ### hw-2  Oct.23, 2018
-Native App
-Web
-Hybrid
+- Native App
+- Web App
+- Hybrid App
