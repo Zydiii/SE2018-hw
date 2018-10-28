@@ -1,6 +1,6 @@
 # README
 
-The repo keeps my road of learning React.
+The folder keeps my road of learning React.
 
 * The folder *learning notes* keeps my learning notes of React as well as Markdown and Git.
 
