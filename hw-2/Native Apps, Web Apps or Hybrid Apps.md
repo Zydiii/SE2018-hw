@@ -7,49 +7,49 @@
 
 
 ## Content
-* [iOS and Android](#iOS and Android)
+* [iOS and Android](#iOS-and-Android)
 
-    * [iOS vs Android](#iOS vs Android)
+    * [iOS vs Android](#iOS-vs-Android)
     
-    * [Can iOS and Android apps work together?](#Can iOS and Android apps work together?)
+    * [Can iOS and Android apps work together?](#Can- iOS- and-Android-apps-work-together?)
 
-* [Native Apps](#Native Apps)
+* [Native Apps](#Native-Apps)
 
-    * [What is a Native App?](#What is a Native App?)
+    * [What is a Native App?](#What-is-a-Native-App?)
 
-    * [How are Native Apps built?](#How are Native Apps built?)
+    * [How are Native Apps built?](#How-are-Native-Apps-built?)
 
-    * [Advantages of Native Apps](#Advantages of Native Apps)
+    * [Advantages of Native Apps](#Advantages-of-Native-Apps)
 
-    * [Disadvantages of Native Apps](#Disadvantages of Native Apps)
+    * [Disadvantages of Native Apps](#Disadvantages-of-Native-Apps)
 
-    * [Examples of Native Apps](#Examples of Native Apps)
+    * [Examples of Native Apps](#Examples-of-Native-Apps)
 
-* [Web Apps](#Web Apps)
+* [Web Apps](#Web-Apps)
 
-    * [What is a Web App?](#What is a Web App?)
+    * [What is a Web App?](#What-is-a-Web-App?)
 
-    * [How are Web Apps built?](#How are Web Apps built?)
+    * [How are Web Apps built?](#How-are-Web-Apps-built?)
 
-    * [Advantages of Web Apps](#Advantages of Web Apps) 
+    * [Advantages of Web Apps](#Advantages-of-Web-Apps) 
 
-    * [Disadvantages of Web Apps](#Disadvantages of Web Apps)
+    * [Disadvantages of Web Apps](#Disadvantages-of-Web-Apps)
 
-    * [Examples of Web Apps](#Examples of Web Apps)
+    * [Examples of Web Apps](#Examples-of-Web-Apps)
 
-* [Hybrid Apps](#Hybrid Apps)
+* [Hybrid Apps](#Hybrid-Apps)
 
-    * [What is a Hybrid App?](#What is a Hybrid App?)
+    * [What is a Hybrid App?](#What-is-a-Hybrid-App?)
 
-    * [How are Hybrid Apps built?](#How are Hybrid Apps built?)
+    * [How are Hybrid Apps built?](#How-are-Hybrid-Apps-built?)
 
-    * [Advantages of Hybrid Apps](#Advantages of Hybrid Apps)
+    * [Advantages of Hybrid Apps](#Advantages-of-Hybrid-Apps)
 
-    * [Disadvantages of Hybrid Apps](#Disadvantages of Hybrid Apps)
+    * [Disadvantages of Hybrid Apps](#Disadvantages-of-Hybrid-Apps)
 
-    * [Examples of Hybrid Apps](#Examples of Hybrid Apps)
+    * [Examples of Hybrid Apps](#Examples-of-Hybrid-Apps)
 
-* [How to Choose?](#How to Choose?)
+* [How to Choose?](#How-to-Choose?)
 
 * [References](#References)
 
