@@ -4,6 +4,8 @@
 <img src="pic/2.PNG"/>
 </div>
 
+
+
 ## Content
 * [iOS and Android](#iOS and Android)
     * [iOS vs Android](#iOS vs Android)
@@ -28,6 +30,8 @@
     * [Examples of Hybrid Apps](#Examples of Hybrid Apps)
 * [How to Choose?](#How to Choose?)
 * [References](#References)
+
+
 When talking about app development, we are usually talking about developing for mobile devices. More specifically, we’ll be focusing on one of the two biggest operating systems: iOS and Android first.
 
 ## iOS and Android
