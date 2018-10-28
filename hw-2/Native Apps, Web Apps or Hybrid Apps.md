@@ -4,6 +4,56 @@
 <img src="pic/2.PNG"/>
 </div>
 
+
+
+## Content
+* [iOS and Android](#iOS-and-Android)
+
+    * [iOS vs Android](#iOS-vs-Android)
+    
+    * [Can iOS and Android apps work together?](#Can- iOS- and-Android-apps-work-together?)
+
+* [Native Apps](#Native-Apps)
+
+    * [What is a Native App?](#What-is-a-Native-App?)
+
+    * [How are Native Apps built?](#How-are-Native-Apps-built?)
+
+    * [Advantages of Native Apps](#Advantages-of-Native-Apps)
+
+    * [Disadvantages of Native Apps](#Disadvantages-of-Native-Apps)
+
+    * [Examples of Native Apps](#Examples-of-Native-Apps)
+
+* [Web Apps](#Web-Apps)
+
+    * [What is a Web App?](#What-is-a-Web-App?)
+
+    * [How are Web Apps built?](#How-are-Web-Apps-built?)
+
+    * [Advantages of Web Apps](#Advantages-of-Web-Apps) 
+
+    * [Disadvantages of Web Apps](#Disadvantages-of-Web-Apps)
+
+    * [Examples of Web Apps](#Examples-of-Web-Apps)
+
+* [Hybrid Apps](#Hybrid-Apps)
+
+    * [What is a Hybrid App?](#What-is-a-Hybrid-App?)
+
+    * [How are Hybrid Apps built?](#How-are-Hybrid-Apps-built?)
+
+    * [Advantages of Hybrid Apps](#Advantages-of-Hybrid-Apps)
+
+    * [Disadvantages of Hybrid Apps](#Disadvantages-of-Hybrid-Apps)
+
+    * [Examples of Hybrid Apps](#Examples-of-Hybrid-Apps)
+
+* [How to Choose?](#How-to-Choose?)
+
+* [References](#References)
+
+
 When talking about app development, we are usually talking about developing for mobile devices. More specifically, we’ll be focusing on one of the two biggest operating systems: iOS and Android first.
 
 ## iOS and Android
@@ -256,8 +306,9 @@ Yelp is a local-search service powered by crowd-sourced review forum, as well as
 Untappd is a geosocial networking service and mobile phone application that allows its users to check in as they drink beers, and share these check-ins and their locations with their friends.
 
 <div  align="center">
-<img src="pic/14.png", width = "50%"/>
+<img src="pic/14.PNG", width = "50%"/>
 </div>
+
 
 
 ## How To Choose?
