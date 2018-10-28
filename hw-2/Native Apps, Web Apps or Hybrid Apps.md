@@ -11,7 +11,7 @@
 
     * [iOS vs Android](#iOS-vs-Android)
     
-    * [Can iOS and Android apps work together?](#Can- iOS- and-Android-apps-work-together?)
+    * [Can iOS and Android apps work together?](#Can-iOS-and-Android-apps-work-together?)
 
 * [Native Apps](#Native-Apps)
 
