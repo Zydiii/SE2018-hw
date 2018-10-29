@@ -244,12 +244,12 @@ In 2017, Twitter rolled out its Progressive Web App “Twitter Lite” as the de
 <img src="pic/22.jpg"/>
 </div>
 
-### What is a Hybrid Apps
+### What is a Hybrid App
 
 A hybrid app is one that combines elements of both native and Web applications.  Hybrid apps are often mentioned in the context of mobile computing.
 
 
-### How are hybrid mobile apps built?
+### How are hybrid apps built?
 
 Hybrid mobile applications are built in a similar manner as websites. Both use a combination of technologies like HTML, CSS, and JavaScript. However, instead of targeting a mobile browser, hybrid applications target a WebView hosted inside a native container. This enables them to do things like access hardware capabilities of the mobile device.
 
