@@ -49,7 +49,7 @@
 
     * [Examples of Hybrid Apps](#Examples-of-Hybrid-Apps)
 
-* [How to Choose?](#How-to-Choose?)
+* [How to Choose?](#How-To-Choose?)
 
 * [References](#References)
 
