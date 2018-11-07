@@ -6,3 +6,15 @@ Don't create a repo with README.md for the git remote command will go wrong! Tho
 > git remote add origin ... 
 
 > git push -u origin master
+>
+> git  rebase -i ...
+>
+> pick
+>
+> s
+>
+> git add .
+>
+> git rebase --continue
+>
+> git rebase --abort
