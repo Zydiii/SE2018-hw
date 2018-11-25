@@ -17,13 +17,8 @@ export default{
         Header,
         Footer,
         Todo,
-    },
-    data () {
-        return {
-            a: 1
-        }
     }
-}
+    }
 </script>
 
 <style lang="stylus" scoped>

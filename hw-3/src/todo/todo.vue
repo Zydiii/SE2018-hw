@@ -17,7 +17,7 @@
       :filter="filter"
       :todos="todos"
       @toggle="toggleFilter"
-      @clearAll="clearAllcompleted"
+      @clearAll="clearAll"
     />
   </section>
 </template>
@@ -61,7 +61,7 @@ export default {
     toggleFilter(state) {
       this.filter = state
     },
-    clearAllcompleted() {
+    clearAll() {
       this.todos = this.todos.filter(todo => !todo.completed)
     }
   }
