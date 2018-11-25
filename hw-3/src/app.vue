@@ -1,4 +1,5 @@
 <template>
+
     <div id='app'>
      <div id="cover"></div>
      <Header></Header>
@@ -16,6 +17,11 @@ export default{
         Header,
         Footer,
         Todo,
+    },
+    data () {
+        return {
+            a: 1
+        }
     }
 }
 </script>
@@ -23,14 +29,14 @@ export default{
 <style lang="stylus" scoped>
 #app {
        position absolute
-       left 0 
+       left 0
        right 0
        top 0
        bottom 0
    }
    #cover {
        position absolute
-       left 0 
+       left 0
        right 0
        top 0
        bottom 0
